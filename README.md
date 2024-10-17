@@ -1,4 +1,4 @@
-# Gemini Vision Chatbot
+# Gemini AI Assistant
 
 ## Overview
 
